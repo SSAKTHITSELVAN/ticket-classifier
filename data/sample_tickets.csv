@@ -1,0 +1,201 @@
+ticket_id,text,category
+TKT-1001,The calendar integration isn't showing events,technical
+TKT-1002,What is your support response time?,general
+TKT-1003,How do I transfer my account to another user?,account
+TKT-1004,Do you offer SOC 2 compliance documentation?,general
+TKT-1005,How do I revoke access for a former employee?,account
+TKT-1006,I want to downgrade from Team to Individual plan,account
+TKT-1007,Can I pay annually instead of monthly?,billing
+TKT-1008,Can I get a refund for the unused subscription?,billing
+TKT-1009,My account got locked after too many login attempts,technical
+TKT-1010,My wallet balance didn't deduct correctly,billing
+TKT-1011,I need to update the billing contact on my account,account
+TKT-1012,Is there a limit on storage per account?,general
+TKT-1013,How do I set up domain verification for my company?,account
+TKT-1014,Copy-paste from Excel into your app doesn't work,technical
+TKT-1015,What is your uptime SLA?,general
+TKT-1016,What file formats do you support for import?,general
+TKT-1017,I want to remove my saved card details,billing
+TKT-1018,Can I create subgroups within my organization?,account
+TKT-1019,Can I get a credit note for the overcharge?,billing
+TKT-1020,The amount deducted doesn't match my plan price,billing
+TKT-1021,Can I use your product for non-profit organizations?,general
+TKT-1022,I cancelled but was still billed,billing
+TKT-1023,I'm seeing a foreign transaction fee on my bill,billing
+TKT-1024,Can I restrict login to specific IP addresses?,account
+TKT-1025,Do you offer a status page for outages?,general
+TKT-1026,Is there a mobile app available?,general
+TKT-1027,Upgrade charge seems higher than expected,billing
+TKT-1028,I need to update my company name in the profile,account
+TKT-1029,I was charged after canceling my account,billing
+TKT-1030,Can I get a quote for 500 users?,general
+TKT-1031,Subscription price changed without prior notice,billing
+TKT-1032,How do I enable or disable email notifications?,account
+TKT-1033,I want to downgrade my plan and get a partial refund,billing
+TKT-1034,I want to switch from credit card to bank transfer,billing
+TKT-1035,What integrations do you support?,general
+TKT-1036,Webhook is not receiving events from your server,technical
+TKT-1037,Getting SSL certificate error on your website,technical
+TKT-1038,Do you offer volume licensing?,general
+TKT-1039,Payment gateway shows error but amount was deducted,billing
+TKT-1040,Can I use your product offline?,general
+TKT-1041,Do you offer dedicated support for enterprise clients?,general
+TKT-1042,Data is not syncing between mobile and web,technical
+TKT-1043,Please send me a receipt for my last payment,billing
+TKT-1044,I want to enable mandatory 2FA for all team members,account
+TKT-1045,Do you offer white-labeling for your product?,general
+TKT-1046,"The dashboard is not loading, shows a blank screen",technical
+TKT-1047,My organization name is showing incorrectly,account
+TKT-1048,Can I have multiple admins in my organization?,account
+TKT-1049,My profile picture won't upload,technical
+TKT-1050,"My account shows as suspended, but I haven't violated anything",account
+TKT-1051,How do I add team members to my workspace?,account
+TKT-1052,I can't change my account email address,technical
+TKT-1053,Can I merge two accounts into one?,account
+TKT-1054,Can I set different permissions for different projects?,account
+TKT-1055,Can I get a prorated refund for unused days?,billing
+TKT-1056,I haven't received my invoice for last month,billing
+TKT-1057,What languages does your platform support?,general
+TKT-1058,What is your backup and disaster recovery policy?,general
+TKT-1059,Need to update billing email address,billing
+TKT-1060,Pagination on the reports page isn't working,technical
+TKT-1061,I forgot which email I used to register,account
+TKT-1062,I have a billing dispute regarding order #45231,billing
+TKT-1063,Do you have a referral program?,general
+TKT-1064,Do you have documentation or tutorials?,general
+TKT-1065,How do I set up custom branding for my workspace?,account
+TKT-1066,I can't share documents with external users,technical
+TKT-1067,I accidentally deleted my workspace,account
+TKT-1068,I never authorized this charge,billing
+TKT-1069,Billing cycle shows wrong renewal date,billing
+TKT-1070,What security certifications do you have?,general
+TKT-1071,How do I archive old projects instead of deleting?,account
+TKT-1072,Can I get a demo before purchasing?,general
+TKT-1073,File upload fails for files larger than 10MB,technical
+TKT-1074,The app doesn't work in incognito mode,technical
+TKT-1075,Do you comply with GDPR?,general
+TKT-1076,Two accounts were merged but billing shows double charge,billing
+TKT-1077,I need to change my username,account
+TKT-1078,The bulk import feature is failing halfway,technical
+TKT-1079,Export to CSV is not working,technical
+TKT-1080,Is there an affiliate program?,general
+TKT-1081,I'm getting a CORS error when using the API,technical
+TKT-1082,I need to remove a user from my organization,account
+TKT-1083,How do I export all my data before deleting?,account
+TKT-1084,I want to set session expiry for all team members,account
+TKT-1085,I need to bulk-import users via CSV,account
+TKT-1086,I need billing statements for the last 6 months,billing
+TKT-1087,Can I get an itemized bill for Q1?,billing
+TKT-1088,My account shows wrong country/region,account
+TKT-1089,I need a full data export for compliance purposes,account
+TKT-1090,Is there a community forum or user group?,general
+TKT-1091,Search functionality returns wrong results,technical
+TKT-1092,Audio is not working during video calls,technical
+TKT-1093,I want to see all active sessions for my account,account
+TKT-1094,I want to delete my account permanently,account
+TKT-1095,How many users can I add on the basic plan?,general
+TKT-1096,The sorting filter on the table isn't working,technical
+TKT-1097,Cannot download my invoice PDF,billing
+TKT-1098,Do you have dark mode support?,general
+TKT-1099,Can I have separate accounts for personal and business?,account
+TKT-1100,I can't log in even though my password is correct,technical
+TKT-1101,Do you offer custom contract terms?,general
+TKT-1102,How do I update my payment method?,billing
+TKT-1103,Refund hasn't appeared in my bank account,billing
+TKT-1104,Can I customize the dashboard layout?,general
+TKT-1105,I can't connect my Zapier workflow to your platform,technical
+TKT-1106,Scheduled tasks are not running at the set time,technical
+TKT-1107,My login history shows suspicious activity,account
+TKT-1108,How do I invite users with specific roles only?,account
+TKT-1109,Do you have an API rate limit?,general
+TKT-1110,Can I view my team's activity log?,account
+TKT-1111,Do you offer training for new users?,general
+TKT-1112,How do I change the primary admin email?,account
+TKT-1113,Tax amount on invoice seems incorrect,billing
+TKT-1114,I need confirmation that my refund was processed,billing
+TKT-1115,What payment methods do you accept?,general
+TKT-1116,Can I restrict which integrations team members can use?,account
+TKT-1117,How do I configure email domain restrictions for signup?,account
+TKT-1118,How do I enable audit logs for my workspace?,account
+TKT-1119,I want to enable SAML SSO for my team,account
+TKT-1120,How do I add a secondary billing contact?,billing
+TKT-1121,My saved filters disappeared after update,technical
+TKT-1122,"App shows error code E-4023, what does it mean?",technical
+TKT-1123,Why was I charged an extra fee this month?,billing
+TKT-1124,Charts are not rendering in the exported PDF,technical
+TKT-1125,What is your data retention policy?,general
+TKT-1126,My profile details are not saving after edit,account
+TKT-1127,Google Drive integration shows authentication error,technical
+TKT-1128,I get a timeout error when generating reports,technical
+TKT-1129,API returns 500 error when I call the endpoint,technical
+TKT-1130,Translations are broken after the latest update,technical
+TKT-1131,Dropdown menus are not showing on Safari,technical
+TKT-1132,Need invoice in my company name not personal,billing
+TKT-1133,"Cannot create more than 10 projects, even on Pro plan",technical
+TKT-1134,Can I restore a deleted project?,account
+TKT-1135,How do I contact your sales team?,general
+TKT-1136,Is my data stored on Indian servers?,general
+TKT-1137,My free trial ended early and I was charged,billing
+TKT-1138,How does your pricing scale for large teams?,general
+TKT-1139,My account was auto-upgraded without my consent,account
+TKT-1140,Single sign-on (SSO) is broken for our organization,technical
+TKT-1141,"I can't reset my password, link expires immediately",technical
+TKT-1142,Is there a student discount available?,general
+TKT-1143,Transaction declined but money was deducted,billing
+TKT-1144,My enterprise plan renewal price is different from quote,billing
+TKT-1145,The print layout is completely broken,technical
+TKT-1146,The email verification link is invalid,technical
+TKT-1147,How do I add a backup admin in case of emergency?,account
+TKT-1148,My bank shows a pending charge that I didn't make,billing
+TKT-1149,The progress bar freezes at 99%,technical
+TKT-1150,My subscription auto-renewed without notification,billing
+TKT-1151,How do I manage API keys for my organization?,account
+TKT-1152,How do I set up role-based access for my team?,account
+TKT-1153,My payment keeps failing on checkout,billing
+TKT-1154,Dark mode is not saving my preference,technical
+TKT-1155,The iOS app crashes on iPhone 15,technical
+TKT-1156,My API token stopped working after I regenerated it,technical
+TKT-1157,Promo discount not reflected in my bill,billing
+TKT-1158,Email notifications for mentions stopped working,technical
+TKT-1159,What is the maximum file size I can upload?,general
+TKT-1160,Is there a browser extension available?,general
+TKT-1161,Session expires too quickly even with remember me checked,technical
+TKT-1162,Do you offer multi-year discounts?,general
+TKT-1163,My PayPal payment is stuck in pending,billing
+TKT-1164,Do you have a public API?,general
+TKT-1165,Database connection error appeared in my dashboard,technical
+TKT-1166,How often do you release new features?,general
+TKT-1167,I accidentally purchased the wrong plan,billing
+TKT-1168,My credit card was charged twice for the same order,billing
+TKT-1169,I cannot delete items from my list,technical
+TKT-1170,What is the difference between Pro and Team plans?,general
+TKT-1171,How do I change the account owner?,account
+TKT-1172,My integration with Slack stopped working,technical
+TKT-1173,I want to deactivate my account temporarily,account
+TKT-1174,Do you support keyboard shortcuts?,general
+TKT-1175,Can I self-host your application?,general
+TKT-1176,The app crashes every time I try to upload a file,technical
+TKT-1177,How do I set up guest access for external collaborators?,account
+TKT-1178,What happens to my data if I cancel?,general
+TKT-1179,Do you offer an on-premise deployment option?,general
+TKT-1180,I need to change the timezone for my account,account
+TKT-1181,Video playback is buffering constantly,technical
+TKT-1182,Two-factor authentication is not sending OTP,technical
+TKT-1183,I need to split my invoice between two departments,billing
+TKT-1184,Invoice shows wrong billing address,billing
+TKT-1185,I need a GST invoice for my purchase,billing
+TKT-1186,"My account was hacked, please help me recover it",account
+TKT-1187,Do you offer a free trial?,general
+TKT-1188,Invoice is missing PO number,billing
+TKT-1189,I want to transfer project ownership to someone else,account
+TKT-1190,What is your cancellation policy?,general
+TKT-1191,I need an annual invoice for tax purposes,billing
+TKT-1192,Do you have a changelog or release notes?,general
+TKT-1193,Can you waive the late payment fee?,billing
+TKT-1194,The mobile app is very slow on Android,technical
+TKT-1195,The notification emails are going to spam,technical
+TKT-1196,Browser extension doesn't work on Firefox,technical
+TKT-1197,Can multiple people work on the same document?,general
+TKT-1198,My coupon code didn't apply any discount,billing
+TKT-1199,I was charged in USD but I need INR billing,billing
+TKT-1200,Do you offer a sandbox environment for testing?,general
